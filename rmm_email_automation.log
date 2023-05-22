@@ -14,3 +14,10 @@
 2023-05-17 17:02:04,182 - INFO - Sent 0 emails in total.
 2023-05-18 17:13:05,841 - INFO - Sent 0 emails in total.
 2023-05-19 17:02:14,341 - INFO - Sent 0 emails in total.
+2023-05-22 17:02:29,938 - INFO - Sent 1 emails for event 5263229
+2023-05-22 17:02:35,740 - INFO - Sent 2 emails for event 5208473
+2023-05-22 17:02:37,265 - INFO - No attendees found for event 5256480
+2023-05-22 17:02:37,266 - INFO - Sent 2 emails for event 5256480
+2023-05-22 17:02:42,069 - INFO - A class attendee for 5204463 is already a member, skipping to the next attendee
+2023-05-22 17:02:42,069 - INFO - Sent 1 emails for event 5204463
+2023-05-22 17:02:42,069 - INFO - Sent 4 emails in total.
