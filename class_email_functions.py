@@ -207,6 +207,7 @@ def get_past_event_ids(access_token, current_datetime=None):
 def send_discount_emails(access_token, event_id_list, template_file_path, Discount_Code):
     html_template = read_template_file(template_file_path)
     total_num_emails = 0
+    event_num_emails = 0
     for event_id in event_id_list:
 
         #logging.info(event_id)
