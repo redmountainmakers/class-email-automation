@@ -53,3 +53,6 @@
 2023-06-19 17:02:33,262 - INFO - A class attendee for 5291256 is already a member, skipping to the next attendee
 2023-06-19 17:02:33,262 - INFO - Sent 1 emails for event 5291256
 2023-06-19 17:02:33,262 - INFO - Sent 6 emails in total.
+2023-06-20 17:02:08,857 - INFO - No attendees found for event 5296829
+2023-06-20 17:02:08,857 - INFO - Sent 0 emails for event 5296829
+2023-06-20 17:02:08,857 - INFO - Sent 0 emails in total.
