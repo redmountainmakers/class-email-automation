@@ -57,3 +57,6 @@
 2023-06-20 17:02:08,857 - INFO - Sent 0 emails for event 5296829
 2023-06-20 17:02:08,857 - INFO - Sent 0 emails in total.
 2023-06-21 17:02:05,093 - INFO - Sent 0 emails in total.
+2023-06-22 17:02:18,136 - INFO - A class attendee for 5211987 is already a member, skipping to the next attendee
+2023-06-22 17:02:19,208 - INFO - Sent 2 emails for event 5211987
+2023-06-22 17:02:19,208 - INFO - Sent 2 emails in total.
