@@ -200,7 +200,8 @@ def get_past_event_ids(access_token, current_datetime=None):
                       past_datetime <= datetime.fromisoformat(event['EndDate'].replace('Z', '+00:00')) < current_datetime and
                       event.get('AccessLevel') == 'Public' and
                       'free' not in event.get('Name', '').lower() and
-                      'awa' not in event.get('Name', '').lower()]
+                      'awa' not in event.get('Name', '').lower() and
+                      'summer' not in event.get('Name', '').lower()]
 
     return past_event_ids
 
