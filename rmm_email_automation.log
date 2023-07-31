@@ -109,3 +109,9 @@
 2023-07-28 17:01:04,300 - INFO - No attendees found for event 5340583
 2023-07-28 17:01:04,300 - INFO - Sent 0 emails for event 5340583
 2023-07-28 17:01:04,300 - INFO - Sent 0 emails in total.
+2023-07-31 17:00:59,963 - INFO - No attendees found for event 5325106
+2023-07-31 17:00:59,963 - INFO - Sent 0 emails for event 5325106
+2023-07-31 17:01:08,658 - INFO - A class attendee for 5291258 is already a member, skipping to the next attendee
+2023-07-31 17:01:16,727 - INFO - A class attendee for 5291258 is already a member, skipping to the next attendee
+2023-07-31 17:01:21,707 - INFO - Sent 7 emails for event 5291258
+2023-07-31 17:01:21,707 - INFO - Sent 7 emails in total.
