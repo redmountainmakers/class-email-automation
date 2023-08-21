@@ -131,3 +131,9 @@
 2023-08-14 17:00:53,225 - INFO - Sent 0 emails in total.
 2023-08-15 17:01:15,714 - INFO - Sent 0 emails in total.
 2023-08-16 17:00:57,770 - INFO - Sent 0 emails in total.
+2023-08-21 19:00:49,766 - INFO - No attendees found for event 5325121
+2023-08-21 19:00:49,766 - INFO - Sent 0 emails for event 5325121
+2023-08-21 19:01:00,762 - INFO - Sent 4 emails for event 5332783
+2023-08-21 19:01:06,301 - INFO - A class attendee for 5325118 is already a member, skipping to the next attendee
+2023-08-21 19:01:11,667 - INFO - Sent 4 emails for event 5325118
+2023-08-21 19:01:11,667 - INFO - Sent 8 emails in total.
