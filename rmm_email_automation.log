@@ -163,3 +163,7 @@
 2023-09-13 17:00:56,277 - INFO - Sent 0 emails in total.
 2023-09-14 17:00:52,291 - INFO - Sent 0 emails in total.
 2023-09-15 17:00:59,240 - INFO - Sent 0 emails in total.
+2023-09-18 17:01:18,882 - INFO - A class attendee for 5360587 is already a member, skipping to the next attendee
+2023-09-18 17:01:21,708 - INFO - Sent 2 emails for event 5360587
+2023-09-18 17:01:31,080 - INFO - Sent 3 emails for event 5276204
+2023-09-18 17:01:31,080 - INFO - Sent 5 emails in total.
