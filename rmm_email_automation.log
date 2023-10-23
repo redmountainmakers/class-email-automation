@@ -201,3 +201,14 @@
 2023-10-19 18:06:36,635 - INFO - Sent 2 emails for event 5212000
 2023-10-19 18:06:36,635 - INFO - Sent 2 emails in total.
 2023-10-20 18:06:21,823 - INFO - Sent 0 emails in total.
+2023-10-23 18:06:19,528 - INFO - No attendees found for event 5452497
+2023-10-23 18:06:19,528 - INFO - Sent 0 emails for event 5452497
+2023-10-23 18:06:27,927 - INFO - Sent 1 emails for event 5360588
+2023-10-23 18:06:33,441 - INFO - Sent 1 emails for event 5452503
+2023-10-23 18:06:35,469 - INFO - No attendees found for event 5419996
+2023-10-23 18:06:35,469 - INFO - Sent 1 emails for event 5419996
+2023-10-23 18:06:50,194 - INFO - Sent 3 emails for event 5420002
+2023-10-23 18:06:59,010 - INFO - Sent 3 emails for event 5376874
+2023-10-23 18:07:03,110 - INFO - A class attendee for 5426534 is already a member, skipping to the next attendee
+2023-10-23 18:07:07,164 - INFO - Sent 2 emails for event 5426534
+2023-10-23 18:07:07,164 - INFO - Sent 10 emails in total.
