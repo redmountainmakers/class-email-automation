@@ -258,3 +258,10 @@
 2023-11-29 18:06:29,609 - INFO - Sent 0 emails in total.
 2023-11-30 18:06:44,272 - INFO - Sent 0 emails in total.
 2023-12-01 18:06:32,266 - INFO - Sent 0 emails in total.
+2023-12-04 18:06:45,565 - INFO - Sent 1 emails for event 5427340
+2023-12-04 18:06:55,601 - INFO - A class attendee for 5441555 is already a member, skipping to the next attendee
+2023-12-04 18:06:56,829 - INFO - A class attendee for 5441555 is already a member, skipping to the next attendee
+2023-12-04 18:06:56,829 - INFO - Sent 4 emails for event 5441555
+2023-12-04 18:07:02,126 - INFO - A class attendee for 5474528 is already a member, skipping to the next attendee
+2023-12-04 18:07:03,902 - INFO - Sent 2 emails for event 5474528
+2023-12-04 18:07:03,902 - INFO - Sent 7 emails in total.
