@@ -277,3 +277,6 @@
 2023-12-11 18:06:59,157 - INFO - No attendees found for event 5452508
 2023-12-11 18:06:59,157 - INFO - Sent 3 emails for event 5452508
 2023-12-11 18:06:59,157 - INFO - Sent 9 emails in total.
+2023-12-12 18:06:51,972 - INFO - A class attendee for 5498041 is already a member, skipping to the next attendee
+2023-12-12 18:06:51,973 - INFO - Sent 0 emails for event 5498041
+2023-12-12 18:06:51,973 - INFO - Sent 0 emails in total.
