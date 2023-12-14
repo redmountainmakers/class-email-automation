@@ -283,3 +283,6 @@
 2023-12-13 18:06:13,051 - INFO - A class attendee for 5434778 is already a member, skipping to the next attendee
 2023-12-13 18:06:14,951 - INFO - Sent 1 emails for event 5434778
 2023-12-13 18:06:14,951 - INFO - Sent 1 emails in total.
+2023-12-14 18:06:36,609 - INFO - No attendees found for event 5498044
+2023-12-14 18:06:36,609 - INFO - Sent 0 emails for event 5498044
+2023-12-14 18:06:36,609 - INFO - Sent 0 emails in total.
