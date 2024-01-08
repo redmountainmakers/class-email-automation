@@ -305,3 +305,7 @@
 2024-01-02 18:07:01,662 - INFO - Sent 0 emails in total.
 2024-01-03 18:06:30,483 - INFO - Sent 0 emails in total.
 2024-01-05 18:06:16,749 - INFO - Sent 0 emails in total.
+2024-01-08 18:06:31,849 - INFO - Sent 2 emails for event 5527740
+2024-01-08 18:06:35,108 - INFO - A class attendee for 5513207 is already a member, skipping to the next attendee
+2024-01-08 18:06:36,107 - INFO - Sent 2 emails for event 5513207
+2024-01-08 18:06:36,107 - INFO - Sent 4 emails in total.
