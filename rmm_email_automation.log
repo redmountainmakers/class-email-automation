@@ -389,3 +389,6 @@
 2024-02-28 18:06:15,276 - INFO - Sent 0 emails in total.
 2024-02-29 18:07:11,604 - INFO - Sent 0 emails in total.
 2024-03-01 18:06:11,240 - INFO - Sent 0 emails in total.
+2024-03-04 18:06:28,090 - INFO - A class attendee for 5594192 is already a member, skipping to the next attendee
+2024-03-04 18:06:28,090 - INFO - Sent 2 emails for event 5594192
+2024-03-04 18:06:28,090 - INFO - Sent 2 emails in total.
