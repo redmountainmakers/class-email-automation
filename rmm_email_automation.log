@@ -403,3 +403,21 @@
 2024-03-13 18:06:10,148 - INFO - Sent 0 emails in total.
 2024-03-14 18:06:14,473 - INFO - Sent 0 emails in total.
 2024-03-15 18:07:41,793 - INFO - Sent 0 emails in total.
+2024-03-18 18:06:31,597 - ERROR - Error: Unable to send email. Status code: 400
+2024-03-18 18:06:32,989 - ERROR - Error: Unable to send email. Status code: 400
+2024-03-18 18:06:33,693 - INFO - A class attendee for 5594187 is already a member, skipping to the next attendee
+2024-03-18 18:06:34,847 - ERROR - Error: Unable to send email. Status code: 400
+2024-03-18 18:06:36,065 - ERROR - Error: Unable to send email. Status code: 400
+2024-03-18 18:06:36,065 - INFO - Sent 4 emails for event 5594187
+2024-03-18 18:06:38,433 - INFO - A class attendee for 5545109 is already a member, skipping to the next attendee
+2024-03-18 18:06:39,493 - ERROR - Error: Unable to send email. Status code: 400
+2024-03-18 18:06:40,760 - ERROR - Error: Unable to send email. Status code: 400
+2024-03-18 18:06:40,760 - INFO - Sent 2 emails for event 5545109
+2024-03-18 18:06:46,335 - ERROR - Error: Unable to send email. Status code: 400
+2024-03-18 18:06:47,305 - ERROR - Error: Unable to send email. Status code: 400
+2024-03-18 18:06:48,502 - ERROR - Error: Unable to send email. Status code: 400
+2024-03-18 18:06:49,307 - INFO - A class attendee for 5545120 is already a member, skipping to the next attendee
+2024-03-18 18:06:49,307 - INFO - Sent 5 emails for event 5545120
+2024-03-18 18:06:54,154 - ERROR - Error: Unable to send email. Status code: 400
+2024-03-18 18:06:54,155 - INFO - Sent 2 emails for event 5597754
+2024-03-18 18:06:54,155 - INFO - Sent 13 emails in total.
