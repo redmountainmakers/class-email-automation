@@ -428,3 +428,8 @@
 2024-03-19 18:06:44,827 - INFO - Sent 0 emails in total.
 2024-03-20 18:06:24,830 - INFO - Sent 0 emails in total.
 2024-03-21 18:06:37,180 - INFO - Sent 0 emails in total.
+2024-03-22 18:06:19,490 - ERROR - Error: Unable to send email. Status code: 400
+2024-03-22 18:06:20,758 - ERROR - Error: Unable to send email. Status code: 400
+2024-03-22 18:06:21,333 - INFO - A class attendee for 5545115 is already a member, skipping to the next attendee
+2024-03-22 18:06:21,333 - INFO - Sent 2 emails for event 5545115
+2024-03-22 18:06:21,333 - INFO - Sent 2 emails in total.
