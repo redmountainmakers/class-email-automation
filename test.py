@@ -10,7 +10,7 @@ access_token = get_access_token(api_key)#Gets the access token from the WA API
 
 template_email_file_path = 'class_discount_email_template_new.html'
 
-html_template = read_template_file(template_file_path)
+html_template = read_template_file(template_email_file_path)
 
 filled_template = fill_email_template(Contact_First_Name, Event_Title, Discount_Code, html_template)
 
