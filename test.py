@@ -14,6 +14,6 @@ html_template = read_template_file(template_file_path)
 
 filled_template = fill_email_template(Contact_First_Name, Event_Title, Discount_Code, html_template)
 
-send_email(access_token,filled_template, '57872628', 'Test', 'mcbehling86@gmail.com'):
+send_email(access_token,filled_template, '57872628', 'Test', 'mcbehling86@gmail.com')
 
 #test_date = datetime(2024, 1, 1, tzinfo=timezone.utc) ,test_date
