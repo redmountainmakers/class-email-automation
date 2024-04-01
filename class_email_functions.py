@@ -131,7 +131,7 @@ def send_email(access_token,body, contact_id,first_name, email):
     send_email_response = requests.post(f'{api_base_url}/rpc/{account_id}/email/SendEmail', headers=headers, json=email_data)
     
     if send_email_response.status_code != 200:
-        logging.error(f'Error: Unable to send email. Status code: {send_email_response.status_code}')
+        logging.error(f'Error: Unable to send email. Status code: {send_email_response.status_code}, contact ID {contact_id}')
         return
     
 def fill_email_template(Contact_First_Name, Event_Title,Discount_Code, template):
