@@ -467,3 +467,8 @@
 2024-04-01 21:31:35,217 - INFO - A class attendee for 5545115 is already a member, skipping to the next attendee
 2024-04-01 21:31:35,217 - INFO - Sent 2 emails for event 5545115
 2024-04-01 21:31:35,217 - INFO - Sent 2 emails in total.
+2024-04-02 18:06:26,628 - ERROR - Error: Unable to send email. Status code: 400, contact ID 61616222
+2024-04-02 18:06:27,241 - ERROR - Error: Unable to send email. Status code: 400, contact ID 61446547
+2024-04-02 18:06:27,736 - INFO - A class attendee for 5545115 is already a member, skipping to the next attendee
+2024-04-02 18:06:27,736 - INFO - Sent 2 emails for event 5545115
+2024-04-02 18:06:27,736 - INFO - Sent 2 emails in total.
