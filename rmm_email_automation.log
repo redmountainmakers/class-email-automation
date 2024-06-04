@@ -677,3 +677,8 @@
 2024-06-03 18:07:50,534 - INFO - A class attendee for 5633740 is already a member, skipping to the next attendee
 2024-06-03 18:07:50,534 - INFO - Sent 2 emails for event 5633740
 2024-06-03 18:07:50,534 - INFO - Sent 2 emails in total.
+2024-06-04 18:07:34,131 - ERROR - Error: Unable to send email. Status code: 400, contact ID 71973834
+2024-06-04 18:07:35,049 - ERROR - Error: Unable to send email. Status code: 400, contact ID 73705496
+2024-06-04 18:07:35,735 - INFO - A class attendee for 5633740 is already a member, skipping to the next attendee
+2024-06-04 18:07:35,735 - INFO - Sent 2 emails for event 5633740
+2024-06-04 18:07:35,735 - INFO - Sent 2 emails in total.
